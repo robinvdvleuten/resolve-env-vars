@@ -1,0 +1,16 @@
+{
+  "name": "resolve-env-vars",
+  "version": "1.0.0",
+  "description": "Resolve environment variables for a given prefix",
+  "license": "MIT",
+  "author": "Robin van der Vleuten <robin@webstronauts.co>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinvdvleuten/resolve-env-vars.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robinvdvleuten/resolve-env-vars/issues"
+  },
+  "homepage": "https://github.com/robinvdvleuten/resolve-env-vars#readme"
+}
